@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Info</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/all.min.css">
+</head>
+<body>
+<form>
+	<fieldset class="frm">
+		<img class="pic" src="assets/images/bld.jpg">
+		<p class="hed">Registration Info</p>
+		<input type="text" name="name" value="" id="nameId" placeholder="NAME" class="box">
+		<br>
+		<input type="datalist" value="" list="birthdate" placeholder="BIRTHDATE" class="box"><i class="fa-solid fa-calendar-week"></i>	
+			<datalist id="birthdate">
+				<option value="Jan">
+				<option value="Feb">
+				<option value="March">
+				<option value="April">
+				<option value="May">
+				<option value="June">
+				<option value="July">
+			</datalist>
+			
+			<br>
+			
+		<select id="gender" name="genderSelect" placeholder="GENDER" class="box1">
+			<option selected value="GENDER" class="gndr">GENDER</option>
+			<option value="Male">Male</option>
+			<option value="Female">Female</option>
+			<option value="Other">Other</option>
+		</select>
+			<br>
+		<select id="class" name="classSelect" placeholder="CLASS" class="box2">
+			<option selected value="CLASS" class="gndr">CLASS</option>
+			<option value="Class 1">Class 1</option>
+			<option value="Class 2">Class 2</option>
+			<option value="Class 3">Class 3</option>
+		</select>
+		
+			<button type="submit" class="btn">Submit</button>
+	</fieldset>
+</form>
+</body>
+</html>

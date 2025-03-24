@@ -1,0 +1,70 @@
+.pic{
+padding: 0px;
+margin-top: -7px;
+margin-right: -20px;
+margin-left: -21px;
+}
+.hed{
+ 	font-family: Arial;
+ 	font-size: 40px;
+}
+.frm{
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-right: 639px;
+	margin-left: 319px;
+}
+.box{
+	margin-left: 10px;
+	margin-right: -21px;
+	padding-right: 448px;
+	padding-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	margin-bottom: 48px; 
+	padding-bottom: 11px;
+}
+.box1{
+	margin-left: 10px;
+	margin-right: 0px;
+	padding-right: 535px;
+	padding-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	margin-bottom: 48px; 
+	padding-bottom: 11px;
+	border-bottom-width: 2px;
+	color: #8B758B;
+}
+.box2{
+		margin-left: 10px;
+	margin-right: 0px;
+	padding-right: 546px;
+	padding-left: 0px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	margin-bottom: 48px; 
+	padding-bottom: 11px;
+	border-bottom-width: 2px;
+	color: #8B758B;
+}
+.btn{
+	color: white;
+	background-color: #53B548;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding: 20px;
+	border:1px solid #53B548;
+	border-radius: 4px;
+	margin-bottom: 30px;
+}
+.gndr{
+	color:#888888;
+}
+.fa-calendar-week{
+	color: #CECECE;
+}
